@@ -1,13 +1,7 @@
-Version: 1.0
+#teste de integração do Github e Rstudio
 
-RestoreWorkspace: Default
-SaveWorkspace: Default
-AlwaysSaveHistory: Default
+mean(c(12,45,78,90))
+sum(c(67,90,45,34))
 
-EnableCodeIndexing: Yes
-UseSpacesForTab: Yes
-NumSpacesForTab: 2
-Encoding: UTF-8
-
-RnwWeave: Sweave
-LaTeX: pdfLaTeX
+matematica <- 47
+portugues <- 15
